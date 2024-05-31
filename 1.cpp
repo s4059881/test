@@ -2,7 +2,7 @@
 using namespace std;
 
 int gay(){
-    return 0
+    return 0;
 }
 int main(){
 
